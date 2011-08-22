@@ -1,0 +1,68 @@
+8
+
+dir
+346
+svn+ssh://orchestra/svn/megason/Code/gelas/trunk/doc/InsightJournal/QEMESH/Decimation/fig
+svn+ssh://orchestra/svn/megason/Code
+
+
+
+2008-07-03T20:48:40.452859Z
+98
+ajg23
+
+
+svn:special svn:externals svn:needs-lock
+
+merge0.png
+file
+
+
+
+
+2008-07-03T18:41:45.000000Z
+46dd18525c60d3ffcf32d5c1cdc1f6dc
+2008-07-03T20:48:40.452859Z
+98
+ajg23
+has-props
+
+merge1.png
+file
+
+
+
+
+2008-07-03T18:44:52.000000Z
+ed9f2b39b11080b0603e95c6d97c4c36
+2008-07-03T20:48:40.452859Z
+98
+ajg23
+has-props
+
+merge2.png
+file
+
+
+
+
+2008-07-03T18:45:59.000000Z
+70b072c21c1b7e7114ac0419dd3f91d4
+2008-07-03T20:48:40.452859Z
+98
+ajg23
+has-props
+
+bunny_comp.png
+file
+
+
+
+
+2008-07-03T19:40:13.000000Z
+1d9a59a60f88820044c1a9e7423046e6
+2008-07-03T20:48:40.452859Z
+98
+ajg23
+has-props
+
